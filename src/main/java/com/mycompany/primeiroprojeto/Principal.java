@@ -10,6 +10,8 @@ package com.mycompany.primeiroprojeto;
  * @author usuario
  */
 public class Principal {
+    public static void main(String[] args) {
+        
+    }
     
 }
-
